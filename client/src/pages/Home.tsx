@@ -8,11 +8,15 @@ import {
   ArrowRight,
   CheckCircle2,
   Quote,
-  Loader2
+  Loader2,
+  Phone,
+  Mail,
+  MapPin
 } from "lucide-react";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { Link as ScrollLink } from "react-scroll";
+import { cn } from "@/lib/utils";
 
 import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
