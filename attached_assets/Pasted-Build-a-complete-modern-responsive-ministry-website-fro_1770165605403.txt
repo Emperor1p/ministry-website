@@ -1,0 +1,107 @@
+Build a complete, modern, responsive ministry website from scratch.
+
+Project type:
+A non-profit / charity ministry website focused on supporting the aged and elderly through financial support, provision of goods, and healthcare assistance.
+
+Tech requirements:
+- Use clean, semantic HTML, modern CSS, and lightweight JavaScript
+- Mobile-first responsive design (perfect on phone, tablet, desktop)
+- Smooth scroll animations and subtle fade/slide animations on sections
+- No excessive margin or padding, layout must feel compact, balanced, and professional
+- Fast loading, accessible, and simple
+- Use modern layout techniques (Flexbox / Grid)
+- Well-structured folder system
+- Easy to edit later
+
+Design & Style:
+- Calm, compassionate, trustworthy feel
+- Color palette: soft warm tones (cream, light beige, soft blue or green accents)
+- White background with gentle accent sections
+- Rounded cards, soft shadows, clean typography
+- No clutter, no oversized spacing
+- Professional charity/ministry aesthetic
+- Smooth scrolling
+- Simple hover effects on buttons and links
+
+Website Structure & Pages:
+
+1. HERO SECTION (Homepage top)
+- Strong headline about caring for the aged and elderly
+- Short emotional subheading explaining the mission
+- Call-to-action button: “Support the Mission” (scrolls to donation section)
+- Background image or gradient suitable for a charity ministry
+
+2. ABOUT THE MINISTRY
+- Clear explanation of what the ministry does
+- Focus on helping the aged: financial help, buying essentials, healthcare support
+- Compassionate tone
+- Include section for ministry values
+
+3. VISION & MISSION
+- Vision statement
+- Mission statement
+- Displayed in clean cards or columns
+- Icons optional but simple
+
+4. AIMS & OBJECTIVES
+- List of clear aims and objectives
+- Examples:
+  - Supporting elderly people financially
+  - Providing food, clothing, and necessities
+  - Supporting healthcare and wellbeing
+- Clean bullet points or cards
+
+5. IMAGE GALLERY / MINISTRY IMPACT
+- Section to display images of:
+  - Ministry activities
+  - Founder
+  - Outreach programs
+- Use placeholder images that can be replaced later
+- Responsive image grid
+
+6. DONATION / SUPPORT SECTION
+- Clearly display bank details for support and donations
+- Well-designed card layout
+- Emphasize transparency and trust
+- Call-to-action encouraging people to support the ministry
+
+7. FAQ SECTION
+- Accordion-style FAQ
+- Questions like:
+  - What does the ministry do?
+  - How can I support?
+  - Who benefits from the ministry?
+- Smooth open/close animation
+
+8. CONTACT US SECTION
+- Contact form with name, email, message
+- Button to contact founder via WhatsApp (link)
+- Option to contact via Gmail
+- Clear and simple layout
+
+9. FOOTER
+- Ministry name
+- Short mission statement
+- Quick links (Home, About, Support, Contact)
+- Social icons placeholder
+
+Extra Requirements:
+- Smooth scrolling between sections
+- Sticky navigation bar
+- Active link highlighting
+- Fully responsive navigation menu
+- Clean, readable typography
+- Comment the code clearly so it’s easy to edit later
+- No unnecessary libraries or heavy frameworks
+- Everything should feel professional, trustworthy, and human-centered
+
+Placeholders:
+- Ministry Name: God of ages 
+- Founder Name: God set man 
+- WhatsApp Link: https://wa.me/[PHONE NUMBER]
+- Email: godofages@gmail.com 
+
+Deliverables:
+- Complete project files
+- Ready-to-run website
+- Clean, readable, well-organized code
